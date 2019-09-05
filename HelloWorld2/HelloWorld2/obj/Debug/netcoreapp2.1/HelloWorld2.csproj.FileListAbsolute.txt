@@ -1,0 +1,11 @@
+/Users/michaeldoyle/Documents/repos/HelloWorld2/HelloWorld2/HelloWorld2/bin/Debug/netcoreapp2.1/HelloWorld2.deps.json
+/Users/michaeldoyle/Documents/repos/HelloWorld2/HelloWorld2/HelloWorld2/bin/Debug/netcoreapp2.1/HelloWorld2.runtimeconfig.json
+/Users/michaeldoyle/Documents/repos/HelloWorld2/HelloWorld2/HelloWorld2/bin/Debug/netcoreapp2.1/HelloWorld2.runtimeconfig.dev.json
+/Users/michaeldoyle/Documents/repos/HelloWorld2/HelloWorld2/HelloWorld2/bin/Debug/netcoreapp2.1/HelloWorld2.dll
+/Users/michaeldoyle/Documents/repos/HelloWorld2/HelloWorld2/HelloWorld2/bin/Debug/netcoreapp2.1/HelloWorld2.pdb
+/Users/michaeldoyle/Documents/repos/HelloWorld2/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.1/HelloWorld2.csprojAssemblyReference.cache
+/Users/michaeldoyle/Documents/repos/HelloWorld2/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.1/HelloWorld2.csproj.CoreCompileInputs.cache
+/Users/michaeldoyle/Documents/repos/HelloWorld2/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.1/HelloWorld2.AssemblyInfoInputs.cache
+/Users/michaeldoyle/Documents/repos/HelloWorld2/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.1/HelloWorld2.AssemblyInfo.cs
+/Users/michaeldoyle/Documents/repos/HelloWorld2/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.1/HelloWorld2.dll
+/Users/michaeldoyle/Documents/repos/HelloWorld2/HelloWorld2/HelloWorld2/obj/Debug/netcoreapp2.1/HelloWorld2.pdb
